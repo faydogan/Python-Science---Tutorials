@@ -17,11 +17,11 @@
 </ul>
 <li>Python Tutorials for Intermediate</li>
 <ul>
-<li>In Preparation/li>
+<li>In Preparation</li>
 </ul>
 <li>Python Tutorials for Advanced</li>
 <ul>
-<li>In Preparation/li>
+<li>In Preparation</li>
 </ul>
 </ul>
-<h5>Thank you visiting</h5>
+<h5>Thank you for visiting</h5>
